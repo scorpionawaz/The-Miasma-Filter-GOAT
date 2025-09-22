@@ -27,7 +27,7 @@ MODEL = "models/gemini-2.0-flash-live-001"
 # Initialize the Google Generative AI client
 client = genai.Client(
     http_options={"api_version": "v1beta"},
-    api_key="AIzaSyDAS7l4ju1cDGx5BjIS3qgb7Cx0X5LwtdY",
+    api_key="AIzaStdY",
 )
 
 
@@ -291,3 +291,4 @@ class AudioLoop:
         """Stops the Gemini session task."""
         if self.session_task and not self.session_task.done():
             self.session_task.cancel()
+
