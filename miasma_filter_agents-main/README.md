@@ -15,7 +15,7 @@ An Iterative Refinement Loop gathers evidence and builds a structured report.
 Finalized report is stored in Redis and returned as a confidence-scored notification to viewers.
 
 
-**🧩 Agents Breakdown**
+## 🧩 Agents Breakdown
 *🔹 Planning & Approval Pipeline*
 
 plan_creator_agent → drafts a research plan based on the claim.
