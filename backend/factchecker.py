@@ -4,7 +4,7 @@ from google import genai
 from google.genai import types
 def checkfact(claim):
     client = genai.Client(
-        api_key="AIzaSyDAS7l4ju1cDGx5BjIS3qgb7Cx0X5LwtdY",
+        api_key="AIzaSyDX5LwtdY",
     )
     model = "gemini-2.5-flash-lite"
     contents = [
@@ -58,6 +58,7 @@ Example:
             return {"error": "Invalid JSON returned", "raw": response_text}
     else:
         return {"error": "No JSON found", "raw": response_text}
+
 
 
 
