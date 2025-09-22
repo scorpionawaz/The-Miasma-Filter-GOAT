@@ -2,7 +2,7 @@
 Agentic pipeline which constantly accumulates facts and updates the cache with recent information. It verifies the credibility of the incoming claim against the recently fetched information using a multi-agent system.
 This system combines planning, research, evaluation, and storage agents to ensure only verified data is streamed to the user.
 
-**📌 Process Flow**
+## 📌 Process Flow
 
 Broadcaster sends stream → Supervisor checks if content is harmful or ambiguous.
 
@@ -46,7 +46,7 @@ redis_storage_agent → stores the final structured report in Redis with metadat
 
 Reporter module → fetches Redis data and generates real-time notifications with a confidence score.
 
-**⚙️ Tech Stack**
+## ⚙️ Tech Stack
 
 Python 3.10+
 
@@ -60,7 +60,7 @@ Agent Development Kit (ADK)
 
 
 
-**🐳 Running the Agent with Docker**
+## 🐳 Running the Agent with Docker
 ### 1️⃣ Clone the repo
 ```bash
 git clone https://github.com/scorpionawaz/The-Miasma-Filter-GOAT.git
