@@ -1,0 +1,7 @@
+google
+google-genai
+fastapi
+uvicorn
+pyaudio
+google-generativeai
+starlette
