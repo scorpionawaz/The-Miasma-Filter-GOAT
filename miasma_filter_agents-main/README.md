@@ -80,29 +80,14 @@ docker run -p 8000:8000 --env-file .env miasma-filter
 The container will look for .env in the repo root. Make sure you create one with required environment variables.
 
 Example .env:
-
+```env
 GOOGLE_GENAI_USE_VERTEXAI=FALSE
 API_KEY=your_api_key_here
-
+```
 Once the container is running, the API will be available at:
 `http://localhost:8000`
 
-1) Create a session : 
-   For example,
-   curl -X POST http://localhost:8000/apps/app/users/u_123/sessions/s_abc \
-  -H "Content-Type: application/json" \
-2) Example query : 
-    curl -X POST http://localhost:8000/run \
-  -H "Content-Type: application/json" \
-  -d '{
-    "app_name": "app",
-    "user_id": "u_123",
-    "session_id": "s_abc",
-    "new_message": {
-      "role": "user",
-      "parts": [{"text": "fetch latest news updates in maharashtra"}]
-    }
-  }'
+
 
 
 
