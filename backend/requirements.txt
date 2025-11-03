@@ -1,0 +1,9 @@
+google
+google-genai
+fastapi
+uvicorn
+pyaudio
+google-generativeai
+starlette
+BeautifulSoup4
+asyncio
