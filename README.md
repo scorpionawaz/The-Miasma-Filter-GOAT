@@ -14,7 +14,7 @@ Traditional moderation tools **only flag static content after upload**, but by t
 
 ## 🌍 Watch The New Version of Miasma for Finals
 
-[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1fXuTgKnFeID7-peQ0qNTlAqz1UcuGOBa/view?usp=drive_link)
+[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1o9vl4i5o6VqAq_QTSvrtZktGhr66-9Hd/view)
 
 ---
 ---
@@ -171,5 +171,6 @@ This will start:
 
 ## 📜 License
 MIT License © 2025 Team ADROIT
+
 
 
