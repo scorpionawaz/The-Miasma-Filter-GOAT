@@ -11,12 +11,20 @@ Traditional moderation tools **only flag static content after upload**, but by t
 👉 **Miasma Filter** solves this by inserting an **AI-powered verification layer** between content creators and viewers, ensuring only **verified claims** pass through live streams.  
 
 ---
+
+## 🌍 Watch The New Version of Miasma for Finals
+
+[![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1fXuTgKnFeID7-peQ0qNTlAqz1UcuGOBa/view?usp=drive_link)
+
+---
 ---
 ## 🌍 Watch The Short Video Instead
 
 [![Watch the video](https://img.shields.io/badge/▶️-Watch%20Demo-red?style=for-the-badge)](https://drive.google.com/file/d/1DwVTprpMHwU5bLkEu20C5VB44fmE1Phq/view?usp=sharing)
 
 ---
+
+
 
 ## 🚀 Features
 - 🔴 **Real-Time Multimodal Verification** – Speech, text, video signals verified instantly  
@@ -163,4 +171,5 @@ This will start:
 
 ## 📜 License
 MIT License © 2025 Team ADROIT
+
 
